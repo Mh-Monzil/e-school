@@ -1,0 +1,197 @@
+.header{
+    background-color: #F0FFF0;
+}
+.navbar{
+    padding-top: 30px;
+    background-color: #F0FFF0;
+    margin-bottom: 80px;
+}
+.logo{
+    width: 200px;
+}
+.home-img{
+    width: 554px;
+    
+}
+
+.navbar-nav a{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000;
+}
+.navbar-nav button{
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    padding: 12px 28px 12px 28px;
+    border-radius: 33px;
+    border: none;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.navbar-nav button:hover{
+    background:transparent;
+    color: #000;
+    transition: all ease-in-out 0.5s;
+}
+#home{
+    background-color: #F0FFF0;
+    padding-bottom: 40px;
+}
+#home .p1{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FD511A;
+}
+#home .p2{
+    line-height: 36px;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 15px 0;
+    color: #6C6B6B;
+}
+#home h1{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.green{
+    color:#21B573;
+}
+.home-left{
+    width: 405px;
+}
+.home-left button{
+    width: 153px;
+    height: 43px;
+    border-radius: 33px;
+    padding: 12px 36px;
+    background-color: #21B573;
+    border: none;
+    font-family: Roboto;
+    color: #FFF;
+    line-height: 19px;
+}
+.home-left button:hover{
+    background:transparent;
+    color: #000;
+    transition: all ease-in-out 0.5s;
+}
+.cur{
+    padding: 40px 0px;
+    margin-bottom: 60px;
+}
+.cur-box{
+    width: 16.5rem;
+    height: 16.5rem;
+    background-color: #e8fff3;
+    /* background-color: red; */
+    border-radius: 10px;
+}
+.first-col .pic1{
+    width: 66px;
+    height: 85px;
+}
+.cur-box h4{
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.pic2{
+    width: 80px;
+    height: 83px;
+}
+.pic3{
+    width: 75px;
+    height: 80px;
+}
+.pic4{
+    width: 68px;
+    height: 76px;
+}
+.course{
+    margin: 1px auto;
+    margin-bottom: 100px;
+}
+.course h2{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    color: #413960;
+    margin: 50px 0;
+}
+.course .card{
+    border: none;
+    /* width: 400px;
+    height: 480px; */
+    border-radius: 15px;
+}
+.course img{
+    width: 331px;
+    padding: 20px;
+}
+
+.card-body{
+    padding: 0px 25px ;
+    padding-bottom: 15px ;
+}
+.card-title{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+}
+.card-text{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #585859;
+}
+.buy-btn{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    color: #FFF;
+    width: 137px;
+    height: 35px;
+    border-radius: 33px;
+    padding: 8px 28px;
+    background: #21B573;
+    border: none;
+}
+.card-foot{
+    background-color: #FFF;
+    border:none;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+.testimonial{
+    margin-bottom: 100px;
+}
+.testimonial h2{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    margin-bottom: 50px;
+}
+.testimonial img{
+    width: 120px;
+    height: 120px;
+}
+
+.end{
+    background: #282531;
+    padding: 10px;
+}
